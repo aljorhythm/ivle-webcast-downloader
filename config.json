@@ -1,0 +1,13 @@
+{
+  "user": "username",
+  "password": "enter password",
+  "moduleWebcastPages": [
+    {
+      "module": "MA1101R",
+      "url":
+        "https://ivle.nus.edu.sg/v1/Webcast/Student/multimedia.aspx?CourseID=eaf87ae0-c4ec-46f0-bf7e-2aa890ad70ca"
+    }
+  ],
+  "userAgent":
+    "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+}
